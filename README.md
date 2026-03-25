@@ -104,33 +104,19 @@ Extracted:
 
 ---
 
-## ▶️ How to Run
-
 1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/sales-forecasting.git
-```
+git clone https://github.com/Kanishk-32/FUTURE_ML_01.git
 
 2. Navigate to project folder:
-
-```bash
-cd sales-forecasting
-```
+cd FUTURE_ML_01
 
 3. Install dependencies:
-
-```bash
 pip install pandas numpy matplotlib scikit-learn openpyxl
-```
 
 4. Run the script:
-
-```bash
 python main.py
-```
 
----
+Make sure the dataset file (data.xlsx) is in the same folder as main.py.
 
 ## 📌 Future Improvements
 
