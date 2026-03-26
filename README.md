@@ -92,6 +92,8 @@ Extracted:
 
   * Actual Sales
   * Forecasted Sales
+<img width="1233" height="703" alt="image" src="https://github.com/user-attachments/assets/ca18f4e4-f674-465c-989a-62a0f38c7447" />
+<img width="1249" height="708" alt="image" src="https://github.com/user-attachments/assets/1dec374c-1949-4f04-88b6-648ce5a9e299" />
 
 ---
 
